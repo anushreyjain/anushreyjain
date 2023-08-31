@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushrey Jain</h1>
-<h3 align="center">A creative UI Developer from india.</h3>
+<h3 align="center">A creative Front-end Developer from india.</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
